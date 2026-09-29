@@ -124,4 +124,4 @@ curl -X POST http://localhost:8080/api/payments \
 
 # 👨‍💻 Author
 
-**[Balajee A V](https://avbalajee.vercel.app)**
+**[Yash Khadkeshwar](https://avbalajee.vercel.app)**
